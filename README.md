@@ -1,2 +1,1 @@
-# website
-Just one website that I'm working
+Aluraflix it's a project proposed from ALURA courses to make a page that show some informations about movies.
